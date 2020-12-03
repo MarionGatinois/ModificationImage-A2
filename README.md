@@ -1,5 +1,7 @@
 # ModificationImage-A2
 
+/!\ => il faut télécharger les images dans debug 
+
 On récupère une image et on peut réaliser divers fonctions : 
 - Image en nuance de gris
 - Image en noir et blanc
