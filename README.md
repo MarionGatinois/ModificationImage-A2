@@ -3,7 +3,7 @@
 On récupère une image et on peut réaliser divers fonctions : 
 - Image en nuance de gris
 - Image en noir et blanc
-- Image effet stylé négatif (test avec mélange de plusieurs méthodes)
+- Image effet style négatif (test avec mélange de plusieurs méthodes)
 - Image effet miroir vertical et horizontal
 - Image rotation 90/ 180 / 270 °
 - L’agrandissement et le rétrécissement d’une image
